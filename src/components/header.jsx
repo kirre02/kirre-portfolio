@@ -5,19 +5,22 @@ function Header() {
         <span>kirre02@swe ~</span>
         <div className="w-[10px] h-[21px] animate-blink bg-sky-400"></div>
       </a>
-      <a 
-          className="hover:text-sky-400" 
-          href="https://github.com/kirre02"  
-          target="_blank"
+      <a
+        className="hover:text-sky-400"
+        href="https://github.com/kirre02"
+        target="_blank"
       >
         github
       </a>
       <a
         className="hover:text-sky-400"
         href="https://www.linkedin.com/in/erik-svensson-nokrach-13614a216/"
-         target="_blank"
+        target="_blank"
       >
         linkedin
+      </a>
+      <a className="hover:text-sky-400" to="#portfolio">
+        portfolio
       </a>
     </nav>
   );

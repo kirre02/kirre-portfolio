@@ -1,14 +1,17 @@
 export default [
   {
-    title: "Terminal Website",
-    link: "https://fkcodes.com",
+    title: "Tic tac toe",
+    link: "https://github.com/kirre02/tic-tac-toe",
+    stack: ["Java", "JavaFX"],
   },
   {
-    title: "Developer Portfolio",
-    link: "https://thehackershideout.com",
+    title: "Portfolio",
+    link: "https://github.com/kirre02/kirre-portfolio",
+    stack: ["Javascript", "React", "Tailwindcss"],
   },
   {
-    title: "AI Nerf Gun",
-    link: "https://youtu.be/A8eegxL82PI",
+    title: "monitor",
+    link: "https://github.com/kirre02/monitor",
+    stack: ["React", "Golang", "tailwindcss"],
   },
 ];

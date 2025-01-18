@@ -11,10 +11,13 @@ function Intro() {
           Introduction
         </h1>
         <p>
-          Hi, I am a {age} year old student who aspire to be a software
-          engineer. Found my passion for programming back in high school where I
-          was introduced to it through the programming course. Have always found
-          it fun to solve problems, especially through coding.
+          Hi! I'm an aspiring software developer with a passion for coding and
+          problem-solving. My journey began in high school with Python, sparking
+          my interest in programming. Since then, I’ve pursued foundational
+          studies, gained professional experience, and am now enrolled in a
+          Higher Vocational Education program focused on Java and software
+          development. Feel free to explore my portfolio and see what I’ve been
+          working on!
         </p>
 
         <p></p>

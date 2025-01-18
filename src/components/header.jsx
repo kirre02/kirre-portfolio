@@ -21,9 +21,6 @@ function Header() {
       >
         linkedin
       </a>
-      <a className="hover:text-sky-400" to="#portfolio">
-        portfolio
-      </a>
     </nav>
   );
 }

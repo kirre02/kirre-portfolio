@@ -1,4 +1,5 @@
 import Header from "./header";
+import Footer from "./footer"
 
 function Layout({children}) {
   return (
@@ -9,6 +10,8 @@ function Layout({children}) {
         <main className="mt-10 flex flex-col gap-3 px-5 pt-5 flex-grow">
           {children}
         </main>
+
+        <Footer/>
       </div>
     </body>
   );
